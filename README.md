@@ -1,4 +1,3 @@
-sails-designer
-==============
+# sails-designer
 
-A simple sails app starter for designers
+a [Sails](http://sailsjs.org) application
